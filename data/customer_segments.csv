@@ -1,0 +1,601 @@
+customer_id,recency,frequency,monetary,cluster_id,persona
+C0001,57,14,1694.2899999999997,2,Champions (Segment 3)
+C0002,182,11,1023.63,3,At-Risk High Value
+C0003,41,9,838.1300000000001,2,Champions (Segment 3)
+C0004,26,10,684.91,2,Champions (Segment 3)
+C0005,113,8,599.1,3,At-Risk High Value
+C0006,1,13,1426.07,2,Champions (Segment 3)
+C0007,29,10,872.24,2,Champions (Segment 3)
+C0008,31,14,1324.88,2,Champions (Segment 3)
+C0009,42,16,1334.5,2,Champions (Segment 3)
+C0010,36,8,878.6199999999999,2,Champions (Segment 3)
+C0011,124,8,570.12,3,At-Risk High Value
+C0012,35,13,1091.42,2,Champions (Segment 3)
+C0013,60,17,1770.7999999999997,2,Champions (Segment 3)
+C0014,51,13,1172.1599999999999,2,Champions (Segment 3)
+C0015,17,15,1255.59,2,Champions (Segment 3)
+C0016,139,9,952.8199999999999,3,At-Risk High Value
+C0017,20,10,913.65,2,Champions (Segment 3)
+C0018,25,14,1699.0700000000002,2,Champions (Segment 3)
+C0019,25,9,838.9200000000001,2,Champions (Segment 3)
+C0020,62,14,1126.7700000000002,2,Champions (Segment 3)
+C0021,15,12,1135.0300000000002,2,Champions (Segment 3)
+C0022,59,8,790.6000000000001,2,Champions (Segment 3)
+C0023,135,15,1432.98,3,At-Risk High Value
+C0024,63,11,954.9200000000001,2,Champions (Segment 3)
+C0025,59,13,1503.26,2,Champions (Segment 3)
+C0026,151,12,1257.1,3,At-Risk High Value
+C0027,61,13,1263.12,2,Champions (Segment 3)
+C0028,138,9,580.9399999999999,3,At-Risk High Value
+C0029,13,12,1090.19,2,Champions (Segment 3)
+C0030,25,10,796.83,2,Champions (Segment 3)
+C0031,51,15,1467.1900000000003,2,Champions (Segment 3)
+C0032,43,13,1328.9099999999999,2,Champions (Segment 3)
+C0033,18,13,1285.9899999999998,2,Champions (Segment 3)
+C0034,2,14,1527.84,2,Champions (Segment 3)
+C0035,43,8,1138.21,2,Champions (Segment 3)
+C0036,16,11,1011.83,2,Champions (Segment 3)
+C0037,10,13,1282.66,2,Champions (Segment 3)
+C0038,14,17,1603.1299999999999,2,Champions (Segment 3)
+C0039,98,9,713.6699999999998,2,Champions (Segment 3)
+C0040,8,18,1757.05,2,Champions (Segment 3)
+C0041,24,12,1126.92,2,Champions (Segment 3)
+C0042,20,13,1327.93,2,Champions (Segment 3)
+C0043,55,13,1669.15,2,Champions (Segment 3)
+C0044,24,12,975.45,2,Champions (Segment 3)
+C0045,55,8,756.87,2,Champions (Segment 3)
+C0046,25,11,1106.5,2,Champions (Segment 3)
+C0047,58,13,971.8400000000001,2,Champions (Segment 3)
+C0048,21,9,781.43,2,Champions (Segment 3)
+C0049,58,13,1202.6599999999999,2,Champions (Segment 3)
+C0050,60,14,1104.36,2,Champions (Segment 3)
+C0051,29,15,1381.6499999999999,2,Champions (Segment 3)
+C0052,68,13,1370.2600000000002,2,Champions (Segment 3)
+C0053,9,11,1123.41,2,Champions (Segment 3)
+C0054,126,9,889.4800000000001,3,At-Risk High Value
+C0055,68,12,1349.5499999999997,2,Champions (Segment 3)
+C0056,32,13,1079.83,2,Champions (Segment 3)
+C0057,84,15,1637.5,2,Champions (Segment 3)
+C0058,61,12,1437.92,2,Champions (Segment 3)
+C0059,35,14,1504.27,2,Champions (Segment 3)
+C0060,91,9,824.0400000000001,2,Champions (Segment 3)
+C0061,33,11,1087.73,2,Champions (Segment 3)
+C0062,130,9,1214.1,3,At-Risk High Value
+C0063,68,15,1185.17,2,Champions (Segment 3)
+C0064,16,11,950.24,2,Champions (Segment 3)
+C0065,63,12,1196.97,2,Champions (Segment 3)
+C0066,46,13,1181.31,2,Champions (Segment 3)
+C0067,72,8,682.0200000000001,2,Champions (Segment 3)
+C0068,21,11,973.67,2,Champions (Segment 3)
+C0069,9,13,1110.6599999999999,2,Champions (Segment 3)
+C0070,49,11,1249.8500000000001,2,Champions (Segment 3)
+C0071,61,10,804.3499999999999,2,Champions (Segment 3)
+C0072,67,11,793.5699999999999,2,Champions (Segment 3)
+C0073,45,8,654.4,2,Champions (Segment 3)
+C0074,27,10,840.65,2,Champions (Segment 3)
+C0075,52,14,1602.4,2,Champions (Segment 3)
+C0076,40,12,1036.08,2,Champions (Segment 3)
+C0077,24,9,936.6999999999999,2,Champions (Segment 3)
+C0078,44,8,639.76,2,Champions (Segment 3)
+C0079,15,12,939.37,2,Champions (Segment 3)
+C0080,46,12,1202.3899999999999,2,Champions (Segment 3)
+C0081,45,13,1037.09,2,Champions (Segment 3)
+C0082,30,12,727.05,2,Champions (Segment 3)
+C0083,50,10,1163.99,2,Champions (Segment 3)
+C0084,127,8,577.53,3,At-Risk High Value
+C0085,34,13,1083.5299999999997,2,Champions (Segment 3)
+C0086,288,8,789.7400000000001,3,At-Risk High Value
+C0087,102,8,759.73,2,Champions (Segment 3)
+C0088,35,14,1558.2,2,Champions (Segment 3)
+C0089,146,8,811.53,3,At-Risk High Value
+C0090,14,18,1505.05,2,Champions (Segment 3)
+C0091,74,13,1287.95,2,Champions (Segment 3)
+C0092,49,16,1414.8300000000002,2,Champions (Segment 3)
+C0093,87,13,1265.1699999999998,2,Champions (Segment 3)
+C0094,12,10,1174.69,2,Champions (Segment 3)
+C0095,45,11,1076.1399999999999,2,Champions (Segment 3)
+C0096,55,12,1454.5399999999997,2,Champions (Segment 3)
+C0097,45,15,1467.82,2,Champions (Segment 3)
+C0098,150,8,651.84,3,At-Risk High Value
+C0099,35,13,962.85,2,Champions (Segment 3)
+C0100,49,10,1272.32,2,Champions (Segment 3)
+C0101,13,11,1036.96,2,Champions (Segment 3)
+C0102,60,9,928.25,2,Champions (Segment 3)
+C0103,42,34,1058.8700000000001,0,Champions
+C0104,53,44,1321.8100000000002,0,Champions
+C0105,68,34,1098.46,0,Champions
+C0106,48,35,1039.78,0,Champions
+C0107,17,48,1219.3,0,Champions
+C0108,34,47,1513.8,0,Champions
+C0109,65,33,883.84,0,Champions
+C0110,71,36,890.5799999999999,0,Champions
+C0111,27,57,1673.5099999999998,0,Champions
+C0112,53,48,1389.5900000000001,0,Champions
+C0113,62,38,1183.4499999999998,0,Champions
+C0114,66,44,1180.49,0,Champions
+C0115,45,32,1004.51,0,Champions
+C0116,82,31,870.7899999999997,0,Champions
+C0117,52,37,1234.9499999999998,0,Champions
+C0118,60,50,1408.05,0,Champions
+C0119,43,39,1131.6599999999999,0,Champions
+C0120,54,50,1363.8,0,Champions
+C0121,37,38,1193.01,0,Champions
+C0122,53,40,1089.3799999999999,0,Champions
+C0123,66,42,1196.2400000000002,0,Champions
+C0124,48,33,973.9399999999999,0,Champions
+C0125,36,40,1149.08,0,Champions
+C0126,43,33,834.93,0,Champions
+C0127,53,29,897.4699999999999,0,Champions
+C0128,41,46,1302.0600000000002,0,Champions
+C0129,57,35,980.59,0,Champions
+C0130,47,24,688.46,0,Champions
+C0131,59,19,503.92999999999995,2,Champions (Segment 3)
+C0132,41,41,1122.11,0,Champions
+C0133,79,38,1142.4299999999998,0,Champions
+C0134,42,70,2058.74,0,Champions
+C0135,34,50,1360.54,0,Champions
+C0136,45,49,1434.8700000000001,0,Champions
+C0137,60,36,1022.4900000000001,0,Champions
+C0138,40,55,1551.44,0,Champions
+C0139,59,48,1427.8400000000001,0,Champions
+C0140,54,37,974.65,0,Champions
+C0141,40,32,832.94,0,Champions
+C0142,66,23,659.73,0,Champions
+C0143,70,27,792.8500000000001,0,Champions
+C0144,45,30,864.82,0,Champions
+C0145,53,34,951.0299999999999,0,Champions
+C0146,23,40,1203.57,0,Champions
+C0147,42,50,1476.4999999999998,0,Champions
+C0148,54,37,1140.39,0,Champions
+C0149,65,24,720.1300000000001,0,Champions
+C0150,31,33,951.4399999999999,0,Champions
+C0151,77,27,781.5699999999999,0,Champions
+C0152,65,42,1248.85,0,Champions
+C0153,68,20,550.25,0,Champions
+C0154,72,33,958.2099999999999,0,Champions
+C0155,59,34,1032.67,0,Champions
+C0156,34,34,931.5799999999999,0,Champions
+C0157,45,44,1181.64,0,Champions
+C0158,35,41,1117.8600000000001,0,Champions
+C0159,42,40,1259.9799999999998,0,Champions
+C0160,57,31,781.18,0,Champions
+C0161,30,41,1184.08,0,Champions
+C0162,81,32,949.74,0,Champions
+C0163,61,50,1375.9,0,Champions
+C0164,70,42,1169.26,0,Champions
+C0165,46,24,707.2500000000001,0,Champions
+C0166,45,35,885.8000000000001,0,Champions
+C0167,121,32,908.8899999999999,0,Champions
+C0168,51,40,1095.4400000000003,0,Champions
+C0169,52,57,1665.47,0,Champions
+C0170,47,26,723.4899999999999,0,Champions
+C0171,67,41,1043.47,0,Champions
+C0172,47,56,1654.6999999999998,0,Champions
+C0173,69,33,890.79,0,Champions
+C0174,76,24,606.8000000000002,0,Champions
+C0175,84,63,1738.72,0,Champions
+C0176,53,48,1436.31,0,Champions
+C0177,54,28,787.7400000000001,0,Champions
+C0178,102,38,978.5099999999999,0,Champions
+C0179,35,38,1100.6100000000001,0,Champions
+C0180,71,40,1090.23,0,Champions
+C0181,46,41,1316.16,0,Champions
+C0182,52,39,1208.2,0,Champions
+C0183,36,30,849.3499999999999,0,Champions
+C0184,60,41,1080.52,0,Champions
+C0185,41,41,1181.1100000000001,0,Champions
+C0186,38,30,827.13,0,Champions
+C0187,62,27,690.71,0,Champions
+C0188,72,42,1266.93,0,Champions
+C0189,49,27,681.89,0,Champions
+C0190,51,38,919.1899999999999,0,Champions
+C0191,36,37,1122.9900000000002,0,Champions
+C0192,40,49,1268.18,0,Champions
+C0193,47,29,732.5899999999999,0,Champions
+C0194,38,33,798.56,0,Champions
+C0195,49,38,891.1099999999999,0,Champions
+C0196,51,30,871.32,0,Champions
+C0197,45,42,1216.8999999999996,0,Champions
+C0198,65,39,1099.23,0,Champions
+C0199,61,43,1296.32,0,Champions
+C0200,72,38,1070.83,0,Champions
+C0201,50,24,666.3500000000001,0,Champions
+C0202,70,49,1385.13,0,Champions
+C0203,82,36,939.5300000000001,0,Champions
+C0204,140,14,435.52,3,At-Risk High Value
+C0205,30,35,1012.8500000000001,0,Champions
+C0206,54,49,1208.61,0,Champions
+C0207,42,46,1223.82,0,Champions
+C0208,37,30,958.2499999999999,0,Champions
+C0209,62,36,974.0699999999999,0,Champions
+C0210,55,26,811.3,0,Champions
+C0211,80,56,1673.9099999999999,0,Champions
+C0212,48,39,1284.7000000000003,0,Champions
+C0213,75,46,1269.2,0,Champions
+C0214,36,42,1146.76,0,Champions
+C0215,104,32,888.37,0,Champions
+C0216,69,43,1146.79,0,Champions
+C0217,57,43,1111.1799999999998,0,Champions
+C0218,62,38,1060.04,0,Champions
+C0219,47,29,826.0200000000001,0,Champions
+C0220,66,49,1338.54,0,Champions
+C0221,65,39,1067.45,0,Champions
+C0222,41,48,1200.6100000000004,0,Champions
+C0223,36,40,1157.2299999999998,0,Champions
+C0224,22,28,813.67,0,Champions
+C0225,34,43,1137.6399999999999,0,Champions
+C0226,43,31,838.08,0,Champions
+C0227,50,20,442.54999999999995,2,Champions (Segment 3)
+C0228,35,45,1195.47,0,Champions
+C0229,61,37,923.58,0,Champions
+C0230,38,52,1444.4099999999999,0,Champions
+C0231,68,36,1216.8199999999997,0,Champions
+C0232,31,30,967.48,0,Champions
+C0233,42,37,1228.5099999999998,0,Champions
+C0234,47,31,817.33,0,Champions
+C0235,33,51,1374.29,0,Champions
+C0236,55,45,1438.0900000000004,0,Champions
+C0237,48,44,1433.5900000000001,0,Champions
+C0238,60,36,1023.94,0,Champions
+C0239,47,36,886.4,0,Champions
+C0240,53,53,1531.91,0,Champions
+C0241,49,49,1426.97,0,Champions
+C0242,97,28,879.0099999999999,0,Champions
+C0243,61,45,1265.8999999999999,0,Champions
+C0244,63,28,826.1600000000001,0,Champions
+C0245,110,41,1198.09,0,Champions
+C0246,54,32,887.2399999999999,0,Champions
+C0247,46,52,1365.2099999999996,0,Champions
+C0248,33,33,911.57,0,Champions
+C0249,53,36,1019.99,0,Champions
+C0250,46,45,1350.8300000000002,0,Champions
+C0251,37,50,1270.81,0,Champions
+C0252,66,35,1091.9300000000003,0,Champions
+C0253,49,39,1210.16,0,Champions
+C0254,56,28,799.1500000000001,0,Champions
+C0255,44,50,1399.17,0,Champions
+C0256,63,28,764.0600000000001,0,Champions
+C0257,60,22,509.92,0,Champions
+C0258,42,27,709.3799999999999,0,Champions
+C0259,54,39,1076.03,0,Champions
+C0260,55,51,1319.6599999999999,0,Champions
+C0261,48,52,1346.98,0,Champions
+C0262,59,41,1131.8,0,Champions
+C0263,11,42,1242.0099999999998,0,Champions
+C0264,36,36,999.4500000000002,0,Champions
+C0265,61,16,537.7800000000001,2,Champions (Segment 3)
+C0266,66,45,1258.3200000000002,0,Champions
+C0267,56,31,786.9499999999999,0,Champions
+C0268,61,19,464.05,2,Champions (Segment 3)
+C0269,37,33,944.92,0,Champions
+C0270,83,17,455.98,2,Champions (Segment 3)
+C0271,84,4,145.76,1,Occasional Customers
+C0272,176,3,123.72,1,Occasional Customers
+C0273,151,5,106.46,1,Occasional Customers
+C0274,142,5,150.39999999999998,1,Occasional Customers
+C0275,134,6,267.9,1,Occasional Customers
+C0276,61,3,198.9,1,Occasional Customers
+C0277,198,5,226.39,1,Occasional Customers
+C0278,152,7,321.46000000000004,1,Occasional Customers
+C0279,254,4,125.82,1,Occasional Customers
+C0280,240,3,92.96,1,Occasional Customers
+C0281,146,3,106.49,1,Occasional Customers
+C0282,283,5,217.68,1,Occasional Customers
+C0283,231,5,200.65000000000003,1,Occasional Customers
+C0284,234,5,167.59,1,Occasional Customers
+C0285,125,4,147.38,1,Occasional Customers
+C0286,138,5,167.34,1,Occasional Customers
+C0287,111,6,195.96999999999997,1,Occasional Customers
+C0288,122,4,145.14,1,Occasional Customers
+C0289,168,4,79.17,1,Occasional Customers
+C0290,182,5,135.22,1,Occasional Customers
+C0291,402,4,158.29,1,Occasional Customers
+C0292,139,6,201.03,1,Occasional Customers
+C0293,160,2,112.68,1,Occasional Customers
+C0294,130,5,157.66000000000003,1,Occasional Customers
+C0295,110,5,159.76,1,Occasional Customers
+C0296,242,4,123.64,1,Occasional Customers
+C0297,258,3,100.03999999999999,1,Occasional Customers
+C0298,135,5,172.28,1,Occasional Customers
+C0299,285,4,92.14999999999999,1,Occasional Customers
+C0300,246,6,229.90999999999997,1,Occasional Customers
+C0301,198,7,227.77,1,Occasional Customers
+C0302,148,5,158.09,1,Occasional Customers
+C0303,246,4,189.49,1,Occasional Customers
+C0304,393,4,104.46,1,Occasional Customers
+C0305,342,5,185.18,1,Occasional Customers
+C0306,102,4,100.04,1,Occasional Customers
+C0307,182,2,75.53999999999999,1,Occasional Customers
+C0308,292,5,161.7,1,Occasional Customers
+C0309,382,5,166.43,1,Occasional Customers
+C0310,143,5,219.06,1,Occasional Customers
+C0311,222,6,199.27999999999997,1,Occasional Customers
+C0312,215,4,136.56,1,Occasional Customers
+C0313,106,5,148.1,1,Occasional Customers
+C0314,145,5,230.45,1,Occasional Customers
+C0315,95,3,60.57,1,Occasional Customers
+C0316,208,5,106.56000000000002,1,Occasional Customers
+C0317,120,5,140.59,1,Occasional Customers
+C0318,110,2,46.35,1,Occasional Customers
+C0319,161,5,190.81,1,Occasional Customers
+C0320,227,2,50.86,1,Occasional Customers
+C0321,102,6,208.14000000000001,1,Occasional Customers
+C0322,95,6,172.60999999999999,1,Occasional Customers
+C0323,123,6,151.98,1,Occasional Customers
+C0324,457,2,36.95,1,Occasional Customers
+C0325,216,4,156.57999999999998,1,Occasional Customers
+C0326,85,3,145.26,1,Occasional Customers
+C0327,171,4,201.49,1,Occasional Customers
+C0328,326,4,184.01999999999998,1,Occasional Customers
+C0329,225,3,142.32,1,Occasional Customers
+C0330,49,5,279.98,1,Occasional Customers
+C0331,305,4,130.29,1,Occasional Customers
+C0332,101,7,298.63,1,Occasional Customers
+C0333,184,4,150.6,1,Occasional Customers
+C0334,201,3,84.2,1,Occasional Customers
+C0335,78,6,218.75,1,Occasional Customers
+C0336,110,4,109.80000000000001,1,Occasional Customers
+C0337,141,5,163.52,1,Occasional Customers
+C0338,152,4,125.82,1,Occasional Customers
+C0339,159,5,242.47000000000003,1,Occasional Customers
+C0340,118,5,197.89,1,Occasional Customers
+C0341,140,4,143.07,1,Occasional Customers
+C0342,105,6,163.07,1,Occasional Customers
+C0343,161,7,210.98,1,Occasional Customers
+C0344,316,6,200.57000000000002,1,Occasional Customers
+C0345,150,4,184.58999999999997,1,Occasional Customers
+C0346,191,4,121.06,1,Occasional Customers
+C0347,231,5,133.82,1,Occasional Customers
+C0348,208,4,135.82999999999998,1,Occasional Customers
+C0349,215,3,99.39,1,Occasional Customers
+C0350,89,5,179.71,1,Occasional Customers
+C0351,111,4,114.08,1,Occasional Customers
+C0352,172,5,112.68,1,Occasional Customers
+C0353,95,4,96.29,1,Occasional Customers
+C0354,687,1,26.42,1,Occasional Customers
+C0355,112,3,92.85,1,Occasional Customers
+C0356,169,4,177.67,1,Occasional Customers
+C0357,230,5,156.58,1,Occasional Customers
+C0358,166,5,149.89999999999998,1,Occasional Customers
+C0359,110,4,290.76,1,Occasional Customers
+C0360,293,3,126.96,1,Occasional Customers
+C0361,156,6,122.45,1,Occasional Customers
+C0362,144,6,251.05000000000004,1,Occasional Customers
+C0363,83,4,144.03,1,Occasional Customers
+C0364,103,4,101.64000000000001,1,Occasional Customers
+C0365,241,6,221.85000000000002,1,Occasional Customers
+C0366,84,4,107.03999999999999,1,Occasional Customers
+C0367,116,6,211.13,1,Occasional Customers
+C0368,161,4,134.38,1,Occasional Customers
+C0369,178,5,152.07,1,Occasional Customers
+C0370,182,4,105.7,1,Occasional Customers
+C0371,235,7,250.72000000000003,1,Occasional Customers
+C0372,174,5,161.53,1,Occasional Customers
+C0373,335,3,55.16,1,Occasional Customers
+C0374,248,5,139.27,1,Occasional Customers
+C0375,150,5,151.43,1,Occasional Customers
+C0376,265,4,100.28,1,Occasional Customers
+C0377,250,5,152.83,1,Occasional Customers
+C0378,122,4,244.17000000000002,1,Occasional Customers
+C0379,214,4,128.10000000000002,1,Occasional Customers
+C0380,254,4,121.25,1,Occasional Customers
+C0381,172,5,125.84,1,Occasional Customers
+C0382,110,5,118.97000000000001,1,Occasional Customers
+C0383,125,6,221.93,1,Occasional Customers
+C0384,215,4,101.82,1,Occasional Customers
+C0385,97,5,154.13,1,Occasional Customers
+C0386,152,6,176.53999999999996,1,Occasional Customers
+C0387,320,2,73.86,1,Occasional Customers
+C0388,119,3,157.23000000000002,1,Occasional Customers
+C0389,145,4,132.59,1,Occasional Customers
+C0390,140,3,68.69,1,Occasional Customers
+C0391,116,6,180.66999999999996,1,Occasional Customers
+C0392,148,6,138.19,1,Occasional Customers
+C0393,105,3,81.59,1,Occasional Customers
+C0394,111,6,212.54999999999998,1,Occasional Customers
+C0395,266,4,132.56,1,Occasional Customers
+C0396,175,5,168.63,1,Occasional Customers
+C0397,173,4,142.14000000000001,1,Occasional Customers
+C0398,208,4,133.76999999999998,1,Occasional Customers
+C0399,150,5,224.85000000000002,1,Occasional Customers
+C0400,162,5,245.71,1,Occasional Customers
+C0401,123,5,129.77,1,Occasional Customers
+C0402,98,5,188.82,1,Occasional Customers
+C0403,298,5,171.29,1,Occasional Customers
+C0404,353,4,143.70999999999998,1,Occasional Customers
+C0405,233,5,134.42,1,Occasional Customers
+C0406,116,5,193.23,1,Occasional Customers
+C0407,350,2,64.07,1,Occasional Customers
+C0408,155,5,186.89,1,Occasional Customers
+C0409,237,4,161.28,1,Occasional Customers
+C0410,129,5,195.75,1,Occasional Customers
+C0411,118,5,169.41000000000003,1,Occasional Customers
+C0412,122,6,221.86,1,Occasional Customers
+C0413,199,3,73.3,1,Occasional Customers
+C0414,116,5,172.84,1,Occasional Customers
+C0415,106,6,149.39000000000001,1,Occasional Customers
+C0416,123,4,119.97999999999999,1,Occasional Customers
+C0417,142,7,223.83999999999997,1,Occasional Customers
+C0418,249,5,183.23000000000002,1,Occasional Customers
+C0419,152,4,159.88,1,Occasional Customers
+C0420,165,6,157.28,1,Occasional Customers
+C0421,469,8,539.05,3,At-Risk High Value
+C0422,478,12,769.94,3,At-Risk High Value
+C0423,186,18,1154.01,3,At-Risk High Value
+C0424,473,14,630.07,3,At-Risk High Value
+C0425,548,20,1203.47,3,At-Risk High Value
+C0426,447,17,969.7,3,At-Risk High Value
+C0427,432,14,964.6999999999998,3,At-Risk High Value
+C0428,521,14,781.4600000000002,3,At-Risk High Value
+C0429,580,14,948.56,3,At-Risk High Value
+C0430,343,17,1316.6,3,At-Risk High Value
+C0431,382,14,725.18,3,At-Risk High Value
+C0432,461,13,833.6099999999999,3,At-Risk High Value
+C0433,583,16,725.9699999999999,3,At-Risk High Value
+C0434,485,13,880.44,3,At-Risk High Value
+C0435,487,10,712.9499999999999,3,At-Risk High Value
+C0436,567,14,868.0000000000001,3,At-Risk High Value
+C0437,375,22,1356.31,3,At-Risk High Value
+C0438,417,16,925.42,3,At-Risk High Value
+C0439,421,13,951.0500000000001,3,At-Risk High Value
+C0440,426,13,678.1200000000001,3,At-Risk High Value
+C0441,400,13,759.31,3,At-Risk High Value
+C0442,574,14,726.14,3,At-Risk High Value
+C0443,365,12,674.49,3,At-Risk High Value
+C0444,389,13,855.32,3,At-Risk High Value
+C0445,563,14,898.58,3,At-Risk High Value
+C0446,572,12,767.3599999999999,3,At-Risk High Value
+C0447,356,15,1095.7699999999998,3,At-Risk High Value
+C0448,637,15,836.9399999999999,3,At-Risk High Value
+C0449,347,11,620.98,3,At-Risk High Value
+C0450,444,13,768.3900000000001,3,At-Risk High Value
+C0451,249,13,599.14,3,At-Risk High Value
+C0452,531,16,828.32,3,At-Risk High Value
+C0453,487,14,882.96,3,At-Risk High Value
+C0454,396,11,650.87,3,At-Risk High Value
+C0455,458,15,762.22,3,At-Risk High Value
+C0456,402,12,941.35,3,At-Risk High Value
+C0457,536,13,993.8599999999999,3,At-Risk High Value
+C0458,493,18,941.48,3,At-Risk High Value
+C0459,513,11,794.3599999999999,3,At-Risk High Value
+C0460,558,16,1066.94,3,At-Risk High Value
+C0461,510,14,688.9399999999999,3,At-Risk High Value
+C0462,384,15,966.97,3,At-Risk High Value
+C0463,445,9,511.15,3,At-Risk High Value
+C0464,395,11,752.4,3,At-Risk High Value
+C0465,291,19,1121.9299999999998,3,At-Risk High Value
+C0466,324,15,715.36,3,At-Risk High Value
+C0467,257,9,533.39,3,At-Risk High Value
+C0468,464,18,1079.59,3,At-Risk High Value
+C0469,504,15,747.7399999999999,3,At-Risk High Value
+C0470,437,8,497.20000000000005,3,At-Risk High Value
+C0471,442,20,1136.8400000000001,3,At-Risk High Value
+C0472,620,14,1030.79,3,At-Risk High Value
+C0473,414,13,783.27,3,At-Risk High Value
+C0474,428,17,918.9099999999999,3,At-Risk High Value
+C0475,304,20,1126.49,3,At-Risk High Value
+C0476,592,11,685.57,3,At-Risk High Value
+C0477,523,10,582.8399999999999,3,At-Risk High Value
+C0478,338,14,695.8100000000001,3,At-Risk High Value
+C0479,420,14,917.3800000000001,3,At-Risk High Value
+C0480,541,16,752.69,3,At-Risk High Value
+C0481,430,16,762.4699999999999,3,At-Risk High Value
+C0482,297,9,499.76,3,At-Risk High Value
+C0483,382,14,932.48,3,At-Risk High Value
+C0484,505,15,987.46,3,At-Risk High Value
+C0485,618,12,869.0,3,At-Risk High Value
+C0486,414,17,953.23,3,At-Risk High Value
+C0487,369,16,843.6300000000001,3,At-Risk High Value
+C0488,441,13,726.24,3,At-Risk High Value
+C0489,339,12,612.51,3,At-Risk High Value
+C0490,581,15,868.76,3,At-Risk High Value
+C0491,483,13,1192.48,3,At-Risk High Value
+C0492,473,15,969.7099999999998,3,At-Risk High Value
+C0493,448,11,593.7199999999999,3,At-Risk High Value
+C0494,427,12,742.5500000000001,3,At-Risk High Value
+C0495,414,22,1322.3799999999999,3,At-Risk High Value
+C0496,404,10,479.76,3,At-Risk High Value
+C0497,506,11,795.5500000000001,3,At-Risk High Value
+C0498,463,9,439.96000000000004,3,At-Risk High Value
+C0499,561,16,956.9600000000002,3,At-Risk High Value
+C0500,375,10,531.4399999999999,3,At-Risk High Value
+C0501,465,14,765.6399999999999,3,At-Risk High Value
+C0502,517,13,580.76,3,At-Risk High Value
+C0503,422,13,577.3600000000001,3,At-Risk High Value
+C0504,497,15,715.36,3,At-Risk High Value
+C0505,394,13,927.74,3,At-Risk High Value
+C0506,496,11,665.27,3,At-Risk High Value
+C0507,426,19,1076.24,3,At-Risk High Value
+C0508,493,11,577.87,3,At-Risk High Value
+C0509,497,19,978.1700000000001,3,At-Risk High Value
+C0510,333,19,1241.58,3,At-Risk High Value
+C0511,249,8,298.24,1,Occasional Customers
+C0512,228,10,377.30999999999995,3,At-Risk High Value
+C0513,187,6,174.03000000000003,1,Occasional Customers
+C0514,361,5,196.59,1,Occasional Customers
+C0515,290,11,317.03000000000003,3,At-Risk High Value
+C0516,293,7,163.03,1,Occasional Customers
+C0517,323,7,244.68,1,Occasional Customers
+C0518,271,7,179.44,1,Occasional Customers
+C0519,218,8,262.22,1,Occasional Customers
+C0520,244,7,226.48999999999995,1,Occasional Customers
+C0521,282,8,253.3,1,Occasional Customers
+C0522,408,4,104.73,1,Occasional Customers
+C0523,199,8,274.09000000000003,1,Occasional Customers
+C0524,338,11,396.80000000000007,3,At-Risk High Value
+C0525,338,8,308.9,1,Occasional Customers
+C0526,245,8,329.7,1,Occasional Customers
+C0527,262,10,344.36,3,At-Risk High Value
+C0528,204,3,111.97,1,Occasional Customers
+C0529,210,9,321.93,1,Occasional Customers
+C0530,251,6,196.63,1,Occasional Customers
+C0531,317,4,90.87,1,Occasional Customers
+C0532,361,9,309.53,3,At-Risk High Value
+C0533,214,7,172.60000000000002,1,Occasional Customers
+C0534,296,6,190.68,1,Occasional Customers
+C0535,359,7,223.16,1,Occasional Customers
+C0536,381,9,255.36999999999998,1,Occasional Customers
+C0537,289,5,125.92,1,Occasional Customers
+C0538,370,10,302.37,3,At-Risk High Value
+C0539,427,5,153.81,1,Occasional Customers
+C0540,280,8,305.56,1,Occasional Customers
+C0541,275,4,121.53999999999999,1,Occasional Customers
+C0542,331,8,396.16,3,At-Risk High Value
+C0543,289,4,110.82000000000001,1,Occasional Customers
+C0544,283,6,215.44,1,Occasional Customers
+C0545,279,6,150.2,1,Occasional Customers
+C0546,263,6,171.06,1,Occasional Customers
+C0547,311,7,306.58,1,Occasional Customers
+C0548,318,7,251.52,1,Occasional Customers
+C0549,271,7,235.67000000000002,1,Occasional Customers
+C0550,230,7,159.0,1,Occasional Customers
+C0551,325,9,196.13,1,Occasional Customers
+C0552,328,6,156.04,1,Occasional Customers
+C0553,163,6,215.08999999999997,1,Occasional Customers
+C0554,362,6,216.33999999999997,1,Occasional Customers
+C0555,152,9,326.78,1,Occasional Customers
+C0556,208,9,362.03999999999996,3,At-Risk High Value
+C0557,279,8,276.34,1,Occasional Customers
+C0558,334,10,369.01,3,At-Risk High Value
+C0559,335,8,219.18,1,Occasional Customers
+C0560,396,8,203.17,1,Occasional Customers
+C0561,171,7,185.04,1,Occasional Customers
+C0562,356,6,233.73000000000002,1,Occasional Customers
+C0563,281,9,332.01,3,At-Risk High Value
+C0564,320,6,203.9,1,Occasional Customers
+C0565,194,10,309.83,1,Occasional Customers
+C0566,521,8,258.01,1,Occasional Customers
+C0567,350,7,210.94,1,Occasional Customers
+C0568,272,6,110.95,1,Occasional Customers
+C0569,245,7,220.4,1,Occasional Customers
+C0570,414,6,223.63000000000002,1,Occasional Customers
+C0571,246,8,346.37,1,Occasional Customers
+C0572,186,5,120.16,1,Occasional Customers
+C0573,266,6,239.81,1,Occasional Customers
+C0574,239,8,202.59000000000003,1,Occasional Customers
+C0575,172,7,158.98,1,Occasional Customers
+C0576,258,7,239.79,1,Occasional Customers
+C0577,237,8,226.53,1,Occasional Customers
+C0578,275,6,325.31,1,Occasional Customers
+C0579,311,7,195.68,1,Occasional Customers
+C0580,260,4,134.01999999999998,1,Occasional Customers
+C0581,292,7,254.98,1,Occasional Customers
+C0582,249,7,193.54000000000002,1,Occasional Customers
+C0583,175,7,185.86,1,Occasional Customers
+C0584,174,6,152.69,1,Occasional Customers
+C0585,312,9,296.99999999999994,1,Occasional Customers
+C0586,208,10,388.86,3,At-Risk High Value
+C0587,252,4,122.03,1,Occasional Customers
+C0588,218,10,407.1,3,At-Risk High Value
+C0589,142,9,300.28,1,Occasional Customers
+C0590,328,7,186.61,1,Occasional Customers
+C0591,218,7,155.44,1,Occasional Customers
+C0592,200,8,385.89,1,Occasional Customers
+C0593,223,6,175.72,1,Occasional Customers
+C0594,220,9,247.35000000000002,1,Occasional Customers
+C0595,258,10,274.38,1,Occasional Customers
+C0596,251,5,208.12,1,Occasional Customers
+C0597,425,5,121.25999999999999,1,Occasional Customers
+C0598,373,7,200.67000000000002,1,Occasional Customers
+C0599,272,8,294.54,1,Occasional Customers
+C0600,294,7,242.00000000000003,1,Occasional Customers
